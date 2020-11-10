@@ -80,11 +80,6 @@
     height: 10rem;
 }
 
-/*Font increase for better for better accessiblity*/
-body{
-    font-size: large;
-}
-
-p{
+.font-lg{
     font-size: large;
 }
