@@ -1,7 +1,7 @@
-/*BOOTSTRAP ACCESS TOOL VERSION 0.07*/
+/*BOOTSTRAP ACCESS TOOL VERSION 0.08*/
 
 /*
-    These background and font choices are intended to fix the bootstrap and web accessiblity problem and to change the color contrast
+    These background and font choices are intended to fix the bootstrap and web accessibility problem and to change the color contrast
     of styles to 8.0 contrast ration when being used.
 */
 
@@ -10,23 +10,23 @@
 .font-acc-dark{color:#000000;}  /*Used in combination with acc colors to provide high contrast*/
 
 
-/* ! This is the true pallete supports better color blindness contrasts as well as better base contrast for low vision
- ! This is the intended Pallete for more accessible web design */
-.color-acc-black{background-color:#131212; color:#ffffff;}             /*Passed Constrast: 18.70*/
-.color-acc-dark-gray{background-color:#343a40; color:#ffffff;}         /*Passed Constrast: 11.51 */
-.color-acc-light-gray{background-color:#C5C4C4; color:#000000;}        /*Passed Constrast: 12.07 */
-.color-acc-blue{background-color:#0037B7; color:#ffffff;}              /*Passed Constrast: 9.42*/
-.color-acc-sky{background-color:#50B3FF; color:#000000;}               /*Passed Constrast: 9.23 */
-.color-acc-green{background-color:#4DFF00; color:#000000;}             /*Passed Constrast: 15.62*/
-.color-acc-red{background-color:#A00202; color:#ffffff;}               /*Passed Constrast: 8.39*/
-.color-acc-orange{background-color: #FD8B00; color:#000000;}           /*Passed Constrast: 8.87 */
-.color-acc-amber{background-color:#FFC107; color:#000000;}             /*Passed Constrast: 12.88*/
-.color-acc-beige{background-color:#DFDA8F; color:#000000;}             /*Passed Constrast: 14.56*/
-.color-acc-sand{background-color: #FFF2C5; color:#000000;}             /*Passed Constrast: 18.76*/
-.color-acc-white{background-color: #F8F9FA; color:#000000;}            /*Passed Constrast: 19.92*/
+/* ! This is the true palette supports better color blindness contrasts as well as better base contrast for low vision
+ ! This is the intended palette for more accessible web design */
+.color-acc-black{background-color:#131212; color:#ffffff;}             /*Passed Contrast: 18.70*/
+.color-acc-dark-gray{background-color:#343a40; color:#ffffff;}         /*Passed Contrast: 11.51 */
+.color-acc-light-gray{background-color:#C5C4C4; color:#000000;}        /*Passed Contrast: 12.07 */
+.color-acc-blue{background-color:#0037B7; color:#ffffff;}              /*Passed Contrast: 9.42*/
+.color-acc-sky{background-color:#50B3FF; color:#000000;}               /*Passed Contrast: 9.23 */
+.color-acc-green{background-color:#4DFF00; color:#000000;}             /*Passed Contrast: 15.62*/
+.color-acc-red{background-color:#A00202; color:#ffffff;}               /*Passed Contrast: 8.39*/
+.color-acc-orange{background-color: #FD8B00; color:#000000;}           /*Passed Contrast: 8.87 */
+.color-acc-amber{background-color:#FFC107; color:#000000;}             /*Passed Contrast: 12.88*/
+.color-acc-beige{background-color:#DFDA8F; color:#000000;}             /*Passed Contrast: 14.56*/
+.color-acc-sand{background-color: #FFF2C5; color:#000000;}             /*Passed Contrast: 18.76*/
+.color-acc-white{background-color: #F8F9FA; color:#000000;}            /*Passed Contrast: 19.92*/
 
-/* ! These palletes show a mathematical approximation of how the true pallete would look on your website in some cases if you are color blind.
-! These Palletes are NOT intended to be used as the main pallete but are here to check the contrast and color set for low vision color blindness.*/
+/* ! These palettes show a mathematical approximation of how the true palette would look on your website in some cases if you are color blind.
+! These palettes are NOT intended to be used as the main palette but are here to check the contrast and color set for low vision color blindness.*/
 .color-acc-prot-black{background-color: #1a1919; color:#ffffff;}             /*Passed Contrast: 17.54*/
 .color-acc-prot-dark-gray{background-color: #3b3b41; color:#ffffff;}         /*Passed Contrast: 11.12*/
 .color-acc-prot-light-gray{background-color: #c6c2c2; color:#000000;}        /*Passed Contrast: 11.90*/ 
