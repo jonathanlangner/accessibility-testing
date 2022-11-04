@@ -12,3 +12,36 @@
 ### Current Screen Shot:
 ![picture](img/access-sample.png)
 
+## Requirements
+
+For development, you will need Node.js installed in your environment.
+
+### Installing Node
+- #### Node installation on Windows
+
+  Just go on [official Node.js website](https://nodejs.org/) and download the installer and follow the instructions there.
+- #### Node installation on Ubuntu
+
+  You can install nodejs and npm easily with apt install, just run the following commands.
+
+      $ sudo apt install nodejs
+      $ sudo apt install npm
+
+- #### Other Operating Systems
+  You can find more information about the installation on the [official Node.js website](https://nodejs.org/).
+
+If the installation was successful, you should be able to run the following command.
+
+    $ node --version
+    v8.11.3
+
+    $ npm --version
+    6.1.0
+
+## Install
+    $ git clone https://github.com/jonathanlangner/accessibility-testing
+    $ cd accessibility-testing
+    $ npm install
+
+## Running the project
+    $ node app.mjs
