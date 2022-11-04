@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonathanlangner/accessiblity-testing.git"
+    "url": "git+https://github.com/jonathanlangner/accessibility-testing.git"
   },
   "author": "Jonathan Langner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonathanlangner/accessiblity-testing/issues"
+    "url": "https://github.com/jonathanlangner/accessibility-testing/issues"
   },
-  "homepage": "https://github.com/jonathanlangner/accessiblity-testing#readme",
+  "homepage": "https://github.com/jonathanlangner/accessibility-testing#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
